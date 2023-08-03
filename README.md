@@ -9,4 +9,6 @@ This project is based on the concept of 3 types of algorithms using Bash Program
 4.        Round Robin Scheduling Algorithm
 
 •        BANKER’S ALGORITHM AND DEADLOCK AVOIDANCE.
+
+
 •        SIMULATING THE MFT AND MVT MEMORY MANAGEMENT TECHNIQUES.
